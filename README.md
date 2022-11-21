@@ -37,4 +37,4 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
 - EliteProducer : https://www.unknowncheats.me/forum/members/1512750.html (For the GetNameById function)
 - ReFo0 : https://github.com/ReFo0 (who allowed me to bypass some issues I encountered thanks to his project)
 
-[Employee data](/squad-external-base/IMAGE_1.jpg?raw=true "ScreenShot 1")
+![alt text](https://github.com/UnnamedZ/squad-external-base/blob/main/IMAGE_1.jpg?raw=true)

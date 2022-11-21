@@ -3,7 +3,7 @@
 #include "struct.h"
 #include "d3dx9.h"
 
-DRV* squad = new DRV();
+DRV* squad = new DRV(); // my drv part
 
 bool Crosshair = false;
 bool esp = false;

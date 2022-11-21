@@ -31,5 +31,5 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
 **Thanks to :**
 
 - KANKOSHEV : https://github.com/KANKOSHEV (For the overlay)
-- EliteProducer : https://www.unknowncheats.me/forum/members/1512750.html (For the ESP )
+- EliteProducer : https://www.unknowncheats.me/forum/members/1512750.html (For the GetNameById function)
 - ReFo0 : https://github.com/ReFo0 (For his squad internal base which allowed me to unblock some problems)

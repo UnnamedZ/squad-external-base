@@ -38,3 +38,4 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
 - ReFo0 : https://github.com/ReFo0 (who allowed me to bypass some issues I encountered thanks to his project)
 
 ![alt text](https://github.com/UnnamedZ/squad-external-base/blob/main/IMAGE_1.jpg?raw=true)
+![alt text](https://github.com/UnnamedZ/squad-external-base/blob/main/IMAGE_2.jpg?raw=true)

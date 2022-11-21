@@ -6,7 +6,7 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
 
 (I removed the driver part)
 
-**NVIDIA overlay must be a activate**
+**NVIDIA overlay must be a activate and you must be in full windowed screen**
 
 
 ###### Features :

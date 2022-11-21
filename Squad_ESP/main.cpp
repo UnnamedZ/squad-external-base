@@ -100,7 +100,6 @@ static void _init(FOverlay* overlay) {
 
 int main()
 {
-    DRV::Init();
     std::cout << "[+] Waiting For Squad " << std::endl;
     while (!squad->Attach("SquadGame.exe"))
     {

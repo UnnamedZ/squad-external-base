@@ -22,7 +22,7 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
   - [ ] ESP Box
 
 - [ ] Aimbot :
-  - [ ] Aimobt
+  - [ ] Aimbot
   - [ ] TriggerBot
   - [ ] NoRecoil
 

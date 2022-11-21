@@ -37,4 +37,4 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
 - EliteProducer : https://www.unknowncheats.me/forum/members/1512750.html (For the GetNameById function)
 - ReFo0 : https://github.com/ReFo0 (who allowed me to bypass some issues I encountered thanks to his project)
 
-https://cdn.discordapp.com/attachments/921147584305856583/1044047456897347604/image.png
+[Employee data](/repository/IMAGE_1?raw=true "ScreenShot 1")

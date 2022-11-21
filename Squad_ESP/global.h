@@ -1,6 +1,5 @@
 #pragma once
 #include "overlay.h"
-#include "driver.h"
 #include "struct.h"
 #include "d3dx9.h"
 

@@ -6,6 +6,8 @@ I hope it will help you to learn, I was rather lazy so I didn't necessarily stru
 
 (I removed the driver part)
 
+**NVIDIA overlay must be a activate**
+
 
 ###### Features :
 - [x] Crosshair
